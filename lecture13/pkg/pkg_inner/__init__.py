@@ -1,0 +1,1 @@
+print("Package inner is initialized.")
